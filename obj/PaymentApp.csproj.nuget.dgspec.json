@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\ocbc nisp\\c#\\sesi14\\PaymentApp\\PaymentApp\\PaymentApp.csproj": {}
+    "D:\\ocbcnisp\\FSDO002ONL002_WidyawatiNurSholikhah_FinalProject1\\PaymentApp\\PaymentApp\\PaymentApp.csproj": {}
   },
   "projects": {
-    "G:\\ocbc nisp\\c#\\sesi14\\PaymentApp\\PaymentApp\\PaymentApp.csproj": {
+    "D:\\ocbcnisp\\FSDO002ONL002_WidyawatiNurSholikhah_FinalProject1\\PaymentApp\\PaymentApp\\PaymentApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\ocbc nisp\\c#\\sesi14\\PaymentApp\\PaymentApp\\PaymentApp.csproj",
+        "projectUniqueName": "D:\\ocbcnisp\\FSDO002ONL002_WidyawatiNurSholikhah_FinalProject1\\PaymentApp\\PaymentApp\\PaymentApp.csproj",
         "projectName": "PaymentApp",
-        "projectPath": "G:\\ocbc nisp\\c#\\sesi14\\PaymentApp\\PaymentApp\\PaymentApp.csproj",
+        "projectPath": "D:\\ocbcnisp\\FSDO002ONL002_WidyawatiNurSholikhah_FinalProject1\\PaymentApp\\PaymentApp\\PaymentApp.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "G:\\ocbc nisp\\c#\\sesi14\\PaymentApp\\PaymentApp\\obj\\",
+        "outputPath": "D:\\ocbcnisp\\FSDO002ONL002_WidyawatiNurSholikhah_FinalProject1\\PaymentApp\\PaymentApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
